@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 <!-- https://icons8.com -->
 
 <div align="center">
-  <a href="https://tinthanhnguyen.wordpress.com/" target="blank">
+<!--   <a href="https://tinthanhnguyen.wordpress.com/" target="blank">
     <img width="90" height="90" src="images/logo.png" alt="tinnguyen-blog" />
-  </a>
+  </a> -->
   <a href="https://facebook.com/iuh98ernguyenthanhtin" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
