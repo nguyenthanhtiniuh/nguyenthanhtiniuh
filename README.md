@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
-  <img src="svg/nguyenthanhtin.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/nguyenthanhtiniuh.svg" width="1000" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
