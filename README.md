@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#" target="_blank">
-  <img src="svg/nguyenthanhtiniuh.svg" width="1000" alt="Click to see the source" />
+  <img src="svg/nguyenthanhtiniuh.svg" width="900" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
 
 <!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp; -->
@@ -55,8 +56,6 @@ Here are some ideas to get you started:
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp; -->
-<!-- <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp; -->
@@ -71,10 +70,15 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="nguyenthanhtiniuh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
   </a>
+  <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=react&border_color=61dafb" />
+  </a>
+  <br>
+  <a href="#" title="nguyenthanhtiniuh">
+    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh" />
   </a>
 </div>
 
@@ -90,19 +94,19 @@ Here are some ideas to get you started:
     <img width="90" height="90" src="images/logo.png" alt="tinnguyen-blog" />
   </a> -->
   <a href="https://facebook.com/iuh98ernguyenthanhtin" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenthanhtiniuh-facebook" />
   </a>
   <a href="https://www.youtube.com/c/" target="#">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyenthanhtiniuh-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/thanh-tín-b09852142" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenthanhtiniuh-linkedin" />
   </a>
   <a href="https://instagram.com/tinnguyeniuh" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyenthanhtiniuh-instagram" />
   </a>
   <a href="mailto:ntt29051998@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenthanhtiniuh-email" />
   </a>
 </div>
 
@@ -111,9 +115,8 @@ Here are some ideas to get you started:
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
+<div align="center">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
-
