@@ -70,15 +70,15 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="nguyenthanhtiniuh">
-    <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
+    <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
   </a>
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=react&border_color=61dafb" />
+    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh" />
+    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&repo=react-prj&theme=jolly&show_icons=true" />
   </a>
 </div>
 
