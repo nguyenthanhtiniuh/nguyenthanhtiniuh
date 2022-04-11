@@ -28,18 +28,19 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>&nbsp;
+
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -72,17 +73,30 @@ Here are some ideas to get you started:
   <a href="#" title="nguyenthanhtiniuh">
     <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
   </a>
+
   <br>
   <a href="#" title="nguyenthanhtiniuh">
     <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
+
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="404" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&repo=react-prj&theme=jolly&show_icons=true" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=nguyenthanhtiniuh&theme=react" />
+  </a>
+
+  <br>
+  <a href="#" title="nguyenthanhtiniuh">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=react-prj&theme=jolly" />
+  </a>
+
+  <br>
+  <a href="#" title="nguyenthanhtiniuh">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&langs_count=10&title_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=61dafb" />
   </a>
 </div>
 
 <br>
+
 </hr>
 
 <h2 align="center">👽 Where to find me 👽</h2>
