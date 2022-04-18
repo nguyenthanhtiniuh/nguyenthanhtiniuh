@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="nguyenthanhtiniuh">
-    <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
+    <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&theme=jolly&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
   </a>
 
   <br>
@@ -81,17 +81,17 @@ Here are some ideas to get you started:
 
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=nguyenthanhtiniuh&theme=react" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=react-bootstrap-app&theme=jolly" />
   </a>
 
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=react-prj&theme=jolly" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=project-react-notes&theme=jolly" />
   </a>
 
   <br>
   <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&langs_count=10&title_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=61dafb" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&theme=jolly" />
   </a>
 </div>
 
