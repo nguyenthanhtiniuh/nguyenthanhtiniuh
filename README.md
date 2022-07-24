@@ -122,6 +122,7 @@ Here are some ideas to get you started:
   <a href="mailto:ntt29051998@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenthanhtiniuh-email" />
   </a>
+  <a href="https://app.daily.dev/tinnt"><img src="https://api.daily.dev/devcards/003af5963a9e4ee6969c306bb5d823c9.png?r=oio" width="400" alt="Nguyen Thanh Tin's Dev Card"/></a>
 </div>
 
 <br>
