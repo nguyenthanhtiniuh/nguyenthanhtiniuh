@@ -135,3 +135,5 @@ Here are some ideas to get you started:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
+
+<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/c308330f-8db0-42b5-948c-2bd68cd920aa.svg"></embed></figure>
