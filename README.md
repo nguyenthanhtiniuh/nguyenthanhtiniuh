@@ -126,16 +126,18 @@ Here are some ideas to get you started:
   </a>
   <a href="https://app.daily.dev/tinnt"><img src="https://api.daily.dev/devcards/003af5963a9e4ee6969c306bb5d823c9.png?r=oio" width="400" alt="Nguyen Thanh Tin's Dev Card"/></a>
 </div>
-
 <br>
+<h2 align="center">📑 WAKA TIME 📑</h2>
+<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/c308330f-8db0-42b5-948c-2bd68cd920aa.svg"></embed></figure>
 
+<!--
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
+<!--
 <div align="center">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
-
-<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/c308330f-8db0-42b5-948c-2bd68cd920aa.svg"></embed></figure>
+-->
