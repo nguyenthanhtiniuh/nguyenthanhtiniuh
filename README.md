@@ -79,10 +79,13 @@ Here are some ideas to get you started:
     <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
 
+<!--
   <br>
   <a href="#" title="nguyenthanhtiniuh">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=react-bootstrap-app&theme=jolly" />
   </a>
+-->
+
 
 <!--
   <br>
