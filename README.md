@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 <!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp; -->
 <br>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6506ff958dfc79db2f02f052?variant=dark&roadmaps=sql%2Caspnet-core%2Ctypescript%2Cangular)](https://roadmap.sh)
+<h2 align="center">🛠 Roadmap 🛠</h2>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6506ff958dfc79db2f02f052?variant=dark&roadmaps=sql%2Caspnet-core%2Ctypescript%2Cangular" alt="roadmap.sh"/></a>
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
