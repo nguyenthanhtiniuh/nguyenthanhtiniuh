@@ -135,14 +135,14 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--
+
 <h2 align="center">📑 WAKA TIME 📑</h2>
 
-<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/c308330f-8db0-42b5-948c-2bd68cd920aa.svg"></embed></figure>
 
--->
+<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/d53c554e-f336-410c-9c75-ecee6ab2f0b6.svg"></embed></figure>
 
-<!--
+
+
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
@@ -152,4 +152,4 @@ Here are some ideas to get you started:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
--->
+
