@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <a href="#" title="nguyenthanhtiniuh">
     <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
--->
+
 <!--
   <br>
   <a href="#" title="nguyenthanhtiniuh">
@@ -99,9 +99,7 @@ Here are some ideas to get you started:
 -->
 
   <br>
-  <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&theme=jolly" />
-  </a>
+
 </div>
 
 <br>
@@ -140,9 +138,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">📑 WAKA TIME 📑</h2>
 
-<div>
-<figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/d53c554e-f336-410c-9c75-ecee6ab2f0b6.svg"></embed></figure>
-</div>
+  <a href="#" title="nguyenthanhtiniuh">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
+  </a>
 
 
 <!--
