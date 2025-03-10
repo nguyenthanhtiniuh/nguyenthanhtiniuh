@@ -28,13 +28,6 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
@@ -43,7 +36,7 @@ Here are some ideas to get you started:
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
@@ -66,37 +59,35 @@ Here are some ideas to get you started:
 &nbsp; -->
 <br>
 <h2 align="center">🛠 Roadmap 🛠</h2>
+<div align=center> 
+
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6506ff958dfc79db2f02f052?variant=dark&roadmaps=sql%2Caspnet-core%2Ctypescript%2Cangular" alt="roadmap.sh"/></a>
+</div>
 <br>
 
-<!--
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">📑 WAKA TIME 📑</h2>
+<div align=center>
+
+  <a href="#" title="nguyenthanhtiniuh">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
+  </a>
+
+</div>
+
 <br>
 <div align=center>
   <a href="#" title="nguyenthanhtiniuh">
     <img width="404" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhtiniuh&theme=jolly&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb" />
   </a>
 
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
   <br>
   <a href="#" title="nguyenthanhtiniuh">
     <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
 
-<!--
-  <br>
-  <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=react-bootstrap-app&theme=jolly" />
-  </a>
--->
 
-
-<!--
-  <br>
-  <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhtiniuh&repo=project-react-notes&theme=jolly" />
-  </a>
--->
 
   <br>
 
@@ -111,9 +102,7 @@ Here are some ideas to get you started:
 <!-- https://icons8.com -->
 
 <div align="center">
-<!--   <a href="https://tinthanhnguyen.wordpress.com/" target="blank">
-    <img width="90" height="90" src="images/logo.png" alt="tinnguyen-blog" />
-  </a> -->
+
   <a href="https://facebook.com/iuh98ernguyenthanhtin" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenthanhtiniuh-facebook" />
   </a>
@@ -134,24 +123,3 @@ Here are some ideas to get you started:
 
 
 <br>
-
-
-<h2 align="center">📑 WAKA TIME 📑</h2>
-
-  <a href="#" title="nguyenthanhtiniuh">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
-  </a>
-
-
-<!--
-<h2 align="center">📑 Random Quotes 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<!--
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
-
--->
