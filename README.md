@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 Roadmap 🛠</h2>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6506ff958dfc79db2f02f052?variant=dark&roadmaps=sql%2Caspnet-core%2Ctypescript%2Cangular" alt="roadmap.sh"/></a>
 <br>
+
+<!--
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -80,7 +82,7 @@ Here are some ideas to get you started:
   <a href="#" title="nguyenthanhtiniuh">
     <img align="center" width="404" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhtiniuh&show_icons=true&theme=jolly&border_color=61dafb" />
   </a>
-
+-->
 <!--
   <br>
   <a href="#" title="nguyenthanhtiniuh">
@@ -138,11 +140,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">📑 WAKA TIME 📑</h2>
 
-
+<div>
 <figure><embed src="https://wakatime.com/share/@nguyenthanhtiniuh/d53c554e-f336-410c-9c75-ecee6ab2f0b6.svg"></embed></figure>
+</div>
 
 
-
+<!--
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
@@ -153,3 +156,4 @@ Here are some ideas to get you started:
 
 </div>
 
+-->
